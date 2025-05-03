@@ -11,6 +11,15 @@ This is an app for restaurant clients, which should:
 
 Because the project is simple, small, console-based, and focused on learning, it will be implemented using basic Java tools without any additional frameworks.
 
+Main Java tools, used in this project:
+- algorithms and OOP;
+- `enum` data type;
+- inheritance;
+- formatted output using ANSI;
+- collections(`List`, `Map`);
+- exception handling(`try-catch`);
+- user input via `Scanner`;
+
 ## Project architecture
 There is a detalised scheme below:
 
