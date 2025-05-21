@@ -19,6 +19,7 @@ Main Java tools, used in this project:
 - collections(`List`, `Map`);
 - exception handling(`try-catch`);
 - user input via `Scanner`;
+- SQLite;
 
 ## Project architecture
 There is a detalised scheme below:
